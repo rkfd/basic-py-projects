@@ -1,7 +1,7 @@
-# 12 Beginner Python Projects
+# Beginner Python Projects
 
 ### About
-A collaboration between freecodecamp and kylie ying to build 12 beginner python apps.
+A collaboration between freecodecamp and kylie ying to build beginner python apps.
 
 ### Projects
 
@@ -10,10 +10,6 @@ A collaboration between freecodecamp and kylie ying to build 12 beginner python 
 3. Guess the Number (user)
 4. Rock Paper Scissors
 5. Hangman
-6. Tic-Tac-Toe
-7. tic-tac-Toe AI
 8. Binary Search
 9. Minesweeper
 10. Sudoku Solver
-11. Photo Manipulation in Python
-12. Markov Chain Text Composer
